@@ -36,4 +36,5 @@ Hasil Dari Menu Keluar
 <img width="451" alt="keluar" src="https://user-images.githubusercontent.com/56963083/71551100-7e0e0200-2993-11ea-8191-7977f1b01b8e.PNG">
 
 *Sekian Dan Terimakasi*
+
 **SEMOGA BERKAH DAN BERMANFAAT** :clap:
